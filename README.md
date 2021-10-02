@@ -21,11 +21,12 @@
 
 ### App Walkthough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="walkthrough2.gif" width=250><br>
 
 ### Notes
 
 Describe any challenges encountered while building the app.
+The videos and guides are inconsistent, hence difficult to follow.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
